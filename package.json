@@ -1,0 +1,17 @@
+{
+  "name": "qa-api-automation",
+  "version": "1.0.0",
+  "description": "Учебный проект API automation на Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test ./tests/user-runner.test.js"
+  },
+  "keywords": [
+    "qa",
+    "api-testing",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
